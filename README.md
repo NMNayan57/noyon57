@@ -11,7 +11,7 @@
 
 ### i am a Student, Developer, And also Sometime Instructor!
 - 🔭  I'm currently Working on Android Development and Competitive Programming!
-- 🌱  I'm currently learning C++,Java,Android Studio and everything 😎...
+- 🌱  I'm currently learning C++,javaScript,machine learning,cyberSecurity 😎...
 - 🗻  I'm looking to collaborate with other Developers
 - 🌩️  Fun fact: I love to play games, read books and travel
 - <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be more than happy to meet you!</b> :)</em>
@@ -24,9 +24,9 @@
 
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhaz-iftekhar-07a5911bb/)
-[![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/minhaz.khan.31542/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdminhaziftekhar@gmail.com)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sm-noyan-8475211b9/)
+[![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100015827795246)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smnoyan670@gmail.com)
   
 </div>
 
